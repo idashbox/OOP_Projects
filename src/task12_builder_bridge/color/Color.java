@@ -1,6 +1,5 @@
 package task12_builder_bridge.color;
 
-// Абстракция
 public abstract class Color {
     protected ColorImplementor colorImplementor;
 

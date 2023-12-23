@@ -1,6 +1,5 @@
 package task12_builder_bridge.color;
 
-// Конкретная абстракция 2
 public class ExpiredColor extends Color {
     public ExpiredColor(ColorImplementor colorImplementor) {
         super(colorImplementor);

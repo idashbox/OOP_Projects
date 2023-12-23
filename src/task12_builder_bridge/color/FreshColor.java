@@ -1,6 +1,5 @@
 package task12_builder_bridge.color;
 
-// Конкретная абстракция 1
 public class FreshColor extends Color {
     public FreshColor(ColorImplementor colorImplementor) {
         super(colorImplementor);
